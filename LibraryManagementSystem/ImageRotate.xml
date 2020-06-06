@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/BookCovers/java.jpg</ImageUrl>
+    <NavigateUrl>http://iiti.ac.in/people/~tanimad/JavaTheCompleteReference.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/BookCovers/Julius Caesar.jpg</ImageUrl>
+    <NavigateUrl>http://www.trinikidscorner.com/wp-content/uploads/2016/08/Julius-Caesar.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/BookCovers/timemachine.jpg</ImageUrl>
+    <NavigateUrl>http://www.planetpdf.com/planetpdf/pdfs/free_ebooks/The_Time_Machine_NT.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+</Advertisements>

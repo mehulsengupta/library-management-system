@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/BookCovers/charlesdickens.jpg</ImageUrl>
+    <NavigateUrl>https://ia800204.us.archive.org/3/items/americannotes00dick/americannotes00dick.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/BookCovers/immortalsofmeluha.jpg</ImageUrl>
+    <NavigateUrl>http://rainatarush.weebly.com/uploads/1/3/2/4/13246237/immortals_of_meluha_-_amish_tripathi.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/BookCovers/thehoundofbaskervilles.jpg</ImageUrl>
+    <NavigateUrl>https://www.planetebook.com/ebooks/The-Hound-of-the-Baskervilles.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+</Advertisements>

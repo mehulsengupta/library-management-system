@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/BookCovers/101foodhacks.jpg</ImageUrl>
+    <NavigateUrl>http://myfoodbook.com.au/sites/default/files/ebook_file/Winter%20Warmers%20Foodbook_0.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/BookCovers/Magicians Nephew Book.jpg</ImageUrl>
+    <NavigateUrl>http://womackworld.wikispaces.com/file/view/Magicians%20Nephew%20Book.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/BookCovers/Frankenstein.jpg</ImageUrl>
+    <NavigateUrl>http://www.penguin.com/static/pdf/teachersguides/Frankenstein.pdf</NavigateUrl>
+    <Impressions>5</Impressions>
+  </Ad>
+</Advertisements>
